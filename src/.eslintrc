@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "env": {  //enviroment - окружающая среда
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "semi": "off",
+    "require-jsdoc": "off"
+  },
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
+}
