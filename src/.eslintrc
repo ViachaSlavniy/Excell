@@ -8,7 +8,7 @@
   "rules": {
     "semi": "off",
     "require-jsdoc": "off",
-    "indent": ["error", 4],
+    "indent": "off",
     "operator-linebreak": "off"
   },
   "extends": [
